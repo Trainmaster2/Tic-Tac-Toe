@@ -51,3 +51,4 @@ echo   ═╬═╬═
 echo   %a2%║%b2%║%c2%
 echo   ═╬═╬═
 echo   %a3%║%b3%║%c3%
+pause<nul
