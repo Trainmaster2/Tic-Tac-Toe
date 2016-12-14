@@ -41,7 +41,7 @@ if "%P1%"=="2" (echo Player 1 is a CPU)
 if "%P2%"=="1" (echo Player 2 is a Player)
 if "%P2%"=="2" (echo Player 2 is a CPU)
 echo.
-choice /c yn /n /m Is this correct? (Y/N)
+choice /c yn /n /m "Is this correct? (Y/N)"
 
 :display
 echo.
