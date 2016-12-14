@@ -12,8 +12,8 @@ set b3=0
 set c1=0
 set c2=0
 set c3=0
-set C1=0
-set C2=0
+set CP1=0
+set CP2=0
 set XM=0
 set OM=0
 echo Is Player 1 a...
