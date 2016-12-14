@@ -3,15 +3,15 @@ cls
 :setup
 set turn=1
 set won=0
-set a1=.
-set a2=.
-set a3=.
-set b1=.
-set b2=.
-set b3=.
-set c1=.
-set c2=.
-set c3=.
+set a1=0
+set a2=0
+set a3=0
+set b1=0
+set b2=0
+set b3=0
+set c1=0
+set c2=0
+set c3=0
 set C1=0
 set C2=0
 set XM=0
