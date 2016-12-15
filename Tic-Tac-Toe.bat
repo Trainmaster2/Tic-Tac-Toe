@@ -46,11 +46,11 @@ choice /c yn /n /m "Is this correct? (Y/N)"
 :display
 echo.
 echo.
-echo   %a1%|%b1%|%c1%
-echo   -+-+-
-echo   %a2%|%b2%|%c2%
-echo   -+-+-
-echo   %a3%|%b3%|%c3%
+echo   %a1%║%b1%║%c1%
+echo   ═╬═╬═
+echo   %a2%║%b2%║%c2%
+echo   ═╬═╬═
+echo   %a3%║%b3%║%c3%
 pause<nul
 if "%turn%"=="1" (call "Program Files\P1_%P1%.bat")
 if "%turn%"=="2" (call "Program Files\P2_%P2%.bat")
